@@ -1,7 +1,0 @@
-Initializing SDL.
-failed both null and null.tga
-SDL initialized.
-using an SDL opengl 800x600x16bpp surface.
-4535 frames rendered in 19.535000 seconds, 232.147428 average frames per second
-Quiting SDL.
-Quiting....
